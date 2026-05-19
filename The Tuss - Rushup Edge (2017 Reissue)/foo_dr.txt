@@ -1,0 +1,34 @@
+foobar2000 1.6.2 / Dynamic Range Meter 1.1.1
+log date: 2020-12-31 10:33:27
+
+--------------------------------------------------------------------------------
+Analyzed: The Tuss / Rushup Edge 
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.29 dB    -9.21 dB      6:21 01-<  Synthacon9  > m
+DR6       -0.31 dB    -8.02 dB      6:34 02-last rushup 10 M
+DR8       -0.39 dB    -9.78 dB      3:07 03-shiz ko E M
+DR9       -0.32 dB   -10.27 dB      4:39 04-rushup i bank 12 M
+DR8       -0.37 dB   -10.20 dB      6:37 05-H949 
+DR9       -0.42 dB   -12.00 dB      5:22 06-goodbye rute [partially expander M]
+DR9       -0.26 dB   -12.39 dB      4:05 07-goodbye jo [original live mixdown]
+DR12      -0.16 dB   -13.74 dB      2:17 08-1st rushup m,+3
+DR12      -0.16 dB   -13.66 dB      2:23 09-computerband 2000 m,+3
+DR12      -0.05 dB   -13.91 dB      2:53 10-oslo 2 +6.1
+DR10      -0.16 dB   -12.46 dB      4:58 11-[S770/SCI 3000,powertran]   beautiful Japanese people
+DR8       -0.05 dB   -10.24 dB      3:09 12-talkin2u mix2 +9
+DR8       -0.15 dB    -9.73 dB      3:34 13-stride portugal
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           758 kbps
+Codec:             FLAC
+================================================================================
+

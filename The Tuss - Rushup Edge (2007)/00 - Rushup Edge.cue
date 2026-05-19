@@ -1,0 +1,47 @@
+REM GENRE Electronic
+REM DATE 2007
+REM DISCID 5407B206
+REM COMMENT "CAT 189 CD"
+PERFORMER "The Tuss"
+TITLE "Rushup Edge"
+FILE "01 - Synthacon 9.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Synthacon 9"
+    PERFORMER "The Tuss"
+    ISRC GBBVT0689012
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Last Rushup 10"
+    PERFORMER "The Tuss"
+    ISRC GBBVT0689022
+    INDEX 00 06:19:26
+FILE "02 - Last Rushup 10.flac" WAVE
+    INDEX 01 00:00:00
+  TRACK 03 AUDIO
+    TITLE "Shiz Ko E"
+    PERFORMER "The Tuss"
+    ISRC GBBVT0689032
+    INDEX 00 06:31:56
+FILE "03 - Shiz Ko E.flac" WAVE
+    INDEX 01 00:00:00
+  TRACK 04 AUDIO
+    TITLE "Rushup I Bank 12"
+    PERFORMER "The Tuss"
+    ISRC GBBVT0689042
+    INDEX 00 03:05:19
+FILE "04 - Rushup I Bank 12.flac" WAVE
+    INDEX 01 00:00:00
+  TRACK 05 AUDIO
+    TITLE "Death Fuck"
+    PERFORMER "The Tuss"
+    ISRC GBBVT0689052
+    INDEX 00 04:37:32
+FILE "05 - Death Fuck.flac" WAVE
+    INDEX 01 00:00:00
+  TRACK 06 AUDIO
+    TITLE "Goodbye Rute"
+    PERFORMER "The Tuss"
+    ISRC GBBVT0689062
+    INDEX 00 06:30:67
+FILE "06 - Goodbye Rute.flac" WAVE
+    INDEX 01 00:00:00
